@@ -17,5 +17,5 @@
 > - Python.
 
 ## Status ##
-Completed 
-First cybersecurity internship task_ codeAlpha 
+- Completed 
+- First cybersecurity internship task_ codeAlpha 
