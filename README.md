@@ -12,6 +12,10 @@
 - Packet structure breakdown and visualization  (graph.py)
 
 > **Purpose**: Educational tool for understanding network protocols, data transmission, and cybersecurity packet analysis fundamentals
- ## Software Used ##
+ ## Software and Language  Used ##
 > - Kali Linux terminal
 > - Python.
+
+## Status ##
+Completed 
+First cybersecurity internship task_ codeAlpha 
